@@ -9,7 +9,7 @@
 </ol>
 <b>Para iniciar os testes, execute um dos seguintes comandos no terminal do VS Code:</b>
 <ul>
-<li>Para executar os testes via terminal: <i>npx cypress run</i></li>
+<li>1. Para executar os testes via terminal: <i>npx cypress run</i></li>
 <li>Para executar os testes via browser: <i>npx cypress run --browser chrome --no-exit</i></li>
 <li>Para executar os testes via script salvo em package.json: <i>npm run test:chrome</i></li>    
 </ul>
